@@ -1,0 +1,227 @@
+movieId,title,genres
+1,The Shawshank Redemption,Action|Adventure|Documentary
+2,The Godfather,Thriller
+3,The Dark Knight,Musical|Adventure
+4,Pulp Fiction,Western
+5,Schindler's List,Western|Drama
+6,The Lord of the Rings: The Return of the King,Animation|Action
+7,"The Good, the Bad and the Ugly",Adventure
+8,12 Angry Men,Documentary
+9,Forrest Gump,Drama|Adventure
+10,Fight Club,Romance|Crime|Adventure
+11,Inception,Fantasy|Musical|Action
+12,The Matrix,Adventure|Animation
+13,Goodfellas,War|Adventure
+14,Se7en,Drama|Crime|Thriller
+15,The Silence of the Lambs,Horror
+16,Interstellar,Horror|Animation
+17,City of God,Sci-Fi|Western|Crime
+18,The Usual Suspects,Documentary|Sci-Fi|Crime
+19,Leon: The Professional,Crime|Sci-Fi|Documentary
+20,Spirited Away,Western
+21,Saving Private Ryan,Action|War
+22,The Green Mile,Documentary
+23,Parasite,Horror|Comedy|Crime
+24,Life Is Beautiful,Musical|Thriller|Drama
+25,The Prestige,Adventure
+26,The Lion King,Thriller
+27,Back to the Future,Drama|Comedy|Documentary
+28,Avengers: Endgame,Mystery|Animation|Western
+29,Django Unchained,Musical|Fantasy
+30,The Departed,Adventure|Animation
+31,Whiplash,Romance|Mystery
+32,The Pianist,Sci-Fi|Comedy
+33,Gladiator,Musical|Mystery
+34,The Wolf of Wall Street,Fantasy|Documentary
+35,Inglourious Basterds,Action|Fantasy
+36,Eternal Sunshine of the Spotless Mind,Horror
+37,2001: A Space Odyssey,Documentary
+38,Apocalypse Now,Horror|Mystery|Comedy
+39,Casablanca,Animation|Documentary|Mystery
+40,Memento,Mystery
+41,Psycho,Adventure
+42,Rear Window,Adventure|Fantasy|Thriller
+43,Once Upon a Time in the West,Fantasy
+44,The Intouchables,Animation|Comedy|Fantasy
+45,Toy Story,Drama|Mystery
+46,Full Metal Jacket,Comedy|Fantasy|Adventure
+47,The Truman Show,Adventure|Mystery
+48,A Beautiful Mind,Action
+49,Cinema Paradiso,Thriller
+50,Braveheart,Documentary|Animation
+51,Lawrence of Arabia,Drama|Fantasy|Romance
+52,Come and See,Romance
+53,Oldboy,Comedy|Fantasy|Sci-Fi
+54,Requiem for a Dream,Musical
+55,Pan's Labyrinth,Musical|Sci-Fi
+56,Das Boot,Western|Fantasy
+57,Alien,Action|Comedy|Horror
+58,Blade Runner,Mystery
+59,Aliens,Horror
+60,Amadeus,Western|Adventure|Thriller
+61,Sunset Blvd.,Comedy|Western
+62,Paths of Glory,Adventure|Comedy
+63,Vertigo,Musical|Romance
+64,Stalker,Romance|Horror|Musical
+65,WALL·E,Crime
+66,Raging Bull,Horror|Drama|Thriller
+67,Modern Times,Romance|Western|Drama
+68,Singin' in the Rain,Action|Thriller|Mystery
+69,Mulholland Drive,Crime|Romance|Comedy
+70,There Will Be Blood,Mystery|Horror
+71,No Country for Old Men,Sci-Fi
+72,Children of Men,Comedy
+73,The Grand Budapest Hotel,Sci-Fi|Western
+74,Mad Max: Fury Road,Fantasy
+75,Moonlight,Western
+76,La La Land,Action|War|Western
+77,Get Out,Adventure|Romance|Musical
+78,Arrival,Thriller|Drama
+79,Dunkirk,Drama
+80,The Shape of Water,Crime|War|Comedy
+81,"Three Billboards Outside Ebbing, Missouri",Comedy
+82,Roma,Adventure
+83,Cold War,Sci-Fi|Documentary|Fantasy
+84,1917,Sci-Fi|Musical
+85,Joker,Thriller
+86,Once Upon a Time in Hollywood,Adventure|Horror|Comedy
+87,Portrait of a Lady on Fire,Mystery|War
+88,The Lighthouse,Crime|Mystery|Thriller
+89,Midsommar,Adventure|Comedy
+90,Knives Out,Musical|Western|War
+91,Tenet,Documentary|Horror
+92,Soul,Romance
+93,Nomadland,Western|Crime|Drama
+94,The Father,Romance
+95,Judas and the Black Messiah,Animation|Western
+96,Sound of Metal,War|Fantasy
+97,Minari,Drama|Mystery
+98,Promising Young Woman,Horror
+99,The Trial of the Chicago 7,Drama|Thriller|Sci-Fi
+100,News of the World,Action
+101,Pieces of a Woman,Documentary|Thriller
+102,Another Round,Mystery|Sci-Fi|Thriller
+103,"Quo Vadis, Aida?",Fantasy|Comedy
+104,Collective,Crime|Western
+105,Spider-Man: Into the Spider-Verse,Animation|Sci-Fi|Adventure
+106,Hereditary,Comedy
+107,Sorry to Bother You,Animation|Musical|Romance
+108,First Reformed,Musical
+109,A Quiet Place,Comedy|Horror|Action
+110,If Beale Street Could Talk,Romance|War|Mystery
+111,Roma,Sci-Fi|Mystery
+112,Burning,Drama|Musical
+113,Shoplifters,Fantasy|Comedy|Musical
+114,Capernaum,Animation|Thriller|Romance
+115,Never Look Away,Comedy
+116,The Favourite,Documentary|Sci-Fi|War
+117,At Eternity's Gate,Western|Action|Thriller
+118,First Man,Documentary
+119,BlacKkKlansman,Action|Sci-Fi
+120,Bohemian Rhapsody,Sci-Fi
+121,Green Book,Crime
+122,Vice,Western
+123,Mary Queen of Scots,Sci-Fi
+124,The Wife,Musical|Documentary
+125,Wildlife,Mystery|Horror|War
+126,Leave No Trace,Drama
+127,Lean on Pete,War|Crime
+128,First Reformed,Sci-Fi
+129,Eighth Grade,War
+130,Blindspotting,Sci-Fi|War
+131,Upgrade,Musical|Sci-Fi
+132,Mission: Impossible - Fallout,Fantasy|War
+133,Avengers: Infinity War,Fantasy
+134,Black Panther,Mystery|Animation|Adventure
+135,The Favourite,Western|Mystery
+136,Isle of Dogs,Horror|Thriller|Comedy
+137,Three Identical Strangers,Fantasy|Sci-Fi
+138,Won't You Be My Neighbor?,Sci-Fi|Fantasy|Romance
+139,Free Solo,Adventure
+140,RBG,Musical|Adventure
+141,Minding the Gap,War|Romance
+142,Dark Waters,Drama
+143,Little Women,Action
+144,Marriage Story,Horror|Mystery|Comedy
+145,The Irishman,Drama|Documentary|Crime
+146,Ford v Ferrari,Animation|Romance|Comedy
+147,Parasite,Action
+148,Doctor Sleep,Thriller
+149,Ad Astra,Thriller|Western|Drama
+150,Hustlers,Romance|Drama
+151,Booksmart,Musical
+152,Rocketman,War|Action|Sci-Fi
+153,Yesterday,War
+154,The Peanut Butter Falcon,Animation|Horror
+155,Waves,Animation|War
+156,A Hidden Life,Sci-Fi|Documentary|Drama
+157,Judy,War|Documentary|Fantasy
+158,Dolemite Is My Name,Romance|Comedy|Fantasy
+159,The Two Popes,Fantasy|War|Thriller
+160,Knives Out,Horror|Mystery
+161,Jojo Rabbit,Horror
+162,Weathering With You,Musical|Horror
+163,Cats,Documentary|Adventure
+164,Richard Jewell,Western|War
+165,21 Bridges,Sci-Fi|Thriller
+166,Midway,Drama
+167,Harriet,Horror|Musical
+168,Terminator: Dark Fate,Action|Mystery
+169,Maleficent: Mistress of Evil,Sci-Fi|Fantasy
+170,Zombieland: Double Tap,War
+171,Abominable,Action|Western
+172,The Addams Family,Documentary
+173,Downton Abbey,Animation|Musical|Adventure
+174,It Chapter Two,Action|Thriller
+175,Good Boys,Comedy|Animation
+176,Fast & Furious Presents: Hobbs & Shaw,Thriller
+177,Once Upon a Time in Hollywood,Horror|Musical
+178,Dora and the Lost City of Gold,Documentary|Animation
+179,The Lion King,Sci-Fi
+180,Stuber,Documentary
+181,Spider-Man: Far from Home,Documentary
+182,Men in Black: International,Comedy
+183,Toy Story 4,Action|Mystery
+184,Anna,Western
+185,John Wick: Chapter 3,Thriller|Western
+186,Brightburn,Western|Mystery|Sci-Fi
+187,A Dog's Journey,War|Musical|Drama
+188,Pokémon Detective Pikachu,Romance
+189,Breakthrough,Mystery
+190,Shazam!,Crime|Animation|Romance
+191,Us,Thriller
+192,Captain Marvel,Action|Thriller
+193,Alita: Battle Angel,Thriller
+194,How to Train Your Dragon: The Hidden World,Fantasy|Horror
+195,The Lego Movie 2,Horror|Documentary|Crime
+196,Glass,Adventure|Mystery|Crime
+197,Replicas,Sci-Fi|Romance
+198,Escape Room,Documentary
+199,Aquaman,Crime
+200,Bumblebee,Action
+201,Mary Poppins Returns,Crime|Drama
+202,Into the Spider-Verse,Animation|Western
+203,The Mule,Horror
+204,Mortal Engines,Western
+205,Creed II,Animation|Comedy
+206,Boy Erased,Crime
+207,Beautiful Boy,Animation|Western|Adventure
+208,The Grinch,Crime
+209,Bohemian Rhapsody,Western|Fantasy|Action
+210,Venom,Romance
+211,A Simple Favor,Western|Thriller
+212,The Predator,Musical|War
+213,The Nun,Thriller|Fantasy|War
+214,Searching,Thriller|Crime|Musical
+215,Crazy Rich Asians,Comedy
+216,BlacKkKlansman,Sci-Fi|Western|Romance
+217,Mission: Impossible - Fallout,Thriller
+218,Mamma Mia! Here We Go Again,Drama|Thriller|Action
+219,Ant-Man and the Wasp,Horror
+220,Sorry to Bother You,Romance|Crime|Drama
+221,Hereditary,Documentary|Fantasy|Crime
+222,Won't You Be My Neighbor?,Musical
+223,Avengers: Infinity War,Musical|Thriller
+224,A Quiet Place,Documentary|Musical|Mystery
+225,Ready Player One,Musical
+226,"Love, Simon",Adventure|Mystery|Drama
